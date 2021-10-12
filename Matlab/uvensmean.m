@@ -1,6 +1,5 @@
 % this script takes the ensemble u, v output 
-% from mitgcm runs and creates averaged fields of 
-% two point correlations.  
+% from mitgcm runs and creates averaged fields 
 addpath /tank/chaocean/MITgcm/utils/matlab;
 clear;
 file_ocean='/tank/chaocean/qjamet/RUNS/ORAR/memb';
